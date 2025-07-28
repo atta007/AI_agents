@@ -6,7 +6,7 @@ This project demonstrates how to build and interact with AI agents through a use
 
 ## 🧠 Features
 
-- AI-powered agents for various tasks
+- AI-powered agents for RAG
 - Gradio frontend for real-time interaction
 - Modular and extensible codebase
 
@@ -29,5 +29,5 @@ pip install -r requirements.txt
 
 cp .env.example .env
 
-python app.py
+python grok_agent.py
 
