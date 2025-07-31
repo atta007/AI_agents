@@ -29,5 +29,5 @@ pip install -r requirements.txt
 
 cp .env.example .env
 
-python grok_agent.py
+python main.py
 
